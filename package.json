@@ -1,0 +1,16 @@
+{
+  "name": "dnf",
+  "description": "A program for solving the Dutch National Flag sort problem",
+  "version": "0.0.1",
+  "private": true,
+  "main": "dnf.coffee",
+  "author": "Ben Morse <snowyote@gmail.com> (http://ephemeralgarbage.com)",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "1.6.1"
+  },
+  "devDependencies": {
+    "mocha": "1.8.1",
+    "chai": "1.5.0"
+  }
+}
